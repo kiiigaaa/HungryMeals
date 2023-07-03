@@ -1,2 +1,4 @@
-# Resturant_Management_System
- Resturant catalogue management, delivery management, order management, stock management, finance management, notification management, human resourse management and many more.
+# Hungry Meals restaurant management system 
+"HungryMeals" is a MERN-based web application for online food ordering. Consist of Catalogue management, Delivery management, HR management, Customer Management, Notification and news feed management and Inventory, Finance management and many more.
+
+
